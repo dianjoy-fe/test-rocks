@@ -17,7 +17,7 @@ Reveal.initialize({
       }
     },
     {
-      src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/markdown/marked.min.js',
+      src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.3.0/plugin/markdown/markdown.min.js',
       condition: function () {
         return !!document.querySelector('[data-markdown]');
       }
